@@ -1,3 +1,2 @@
 print('Hello World!')
-
-print('Egor and Kostya')
+print('Мы это Егор и Костя + папа и мама = семья')

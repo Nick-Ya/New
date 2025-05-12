@@ -3,6 +3,6 @@
 ## 🚀 Установка
 
 ```bash
-git clone https://github.com/your-username/qa-whatsapp-tests.git
+git clone https://github.com/Nick-Ya/New.git/qa-whatsapp-tests.git
 cd qa-whatsapp-tests
 npm install

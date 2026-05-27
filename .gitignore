@@ -1,0 +1,18 @@
+# build
+build/
+cmake-build-*/
+
+# python
+.venv/
+__pycache__/
+*.pyc
+
+# system
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# logs
+*.log

@@ -1,0 +1,7 @@
+services:
+  signal-simulator:
+    build:
+      context: .
+      dockerfile: Dockerfile.simulator
+    ports:
+      - "2001:2001"

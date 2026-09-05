@@ -1,0 +1,8 @@
+FROM python:3.13-slim
+
+WORKDIR /app
+COPY simulator/server.py /app/server.py
+
+EXPOSE 2001
+
+CMD ["python", "server.py"]
